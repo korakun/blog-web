@@ -28,3 +28,5 @@ picture int not null
 ):
 
 bugdiin hiisnii daraa serveree asaah
+
+npm start
